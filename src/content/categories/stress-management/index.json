@@ -1,0 +1,21 @@
+{
+  "id": "stress-management",
+  "name": "Stress Management",
+  "description": "Strategies and techniques to manage stress effectively in everyday life.",
+  "shortDescription": "Effective stress management techniques.",
+  "icon": "😌",
+  "color": "#FFC107",
+  "aboutContent": "This category provides resources on identifying stressors and employing effective management strategies.",
+  "detailedDescription": "A comprehensive resource for understanding stress, its effects, and practical techniques to manage it in daily life.",
+  "popularTopics": [
+    "Stress Reduction Techniques",
+    "Workplace Stress Management",
+    "Mindfulness for Stress Relief"
+  ],
+  "seoKeywords": "stress management, techniques, relief, coping",
+  "keywords": [
+    "stress management",
+    "stress relief techniques",
+    "stress reduction"
+  ]
+}

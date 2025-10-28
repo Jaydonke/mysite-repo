@@ -1,0 +1,21 @@
+{
+  "id": "meditation",
+  "name": "Meditation",
+  "description": "Learn about different meditation practices and their benefits for mental clarity and peace.",
+  "shortDescription": "Meditation techniques and benefits.",
+  "icon": "🧘‍♀️",
+  "color": "#9C27B0",
+  "aboutContent": "This category focuses on various meditation techniques and how they can enhance mental and emotional well-being.",
+  "detailedDescription": "A detailed exploration of meditation practices, their origins, benefits, and how to incorporate them into daily life.",
+  "popularTopics": [
+    "Meditation for Beginners",
+    "Mindfulness Meditation",
+    "Types of Meditation"
+  ],
+  "seoKeywords": "meditation, techniques, benefits, mindfulness",
+  "keywords": [
+    "meditation",
+    "meditation techniques",
+    "mindfulness meditation"
+  ]
+}

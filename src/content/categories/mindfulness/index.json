@@ -1,0 +1,21 @@
+{
+  "id": "mindfulness",
+  "name": "Mindfulness",
+  "description": "Learn about mindfulness practices, techniques, and benefits for everyday life.",
+  "shortDescription": "Mindfulness techniques and insights.",
+  "icon": "🧘‍♂️",
+  "color": "#4CAF50",
+  "aboutContent": "This category offers guidance on incorporating mindfulness into daily activities for enhanced well-being.",
+  "detailedDescription": "A collection of articles dedicated to the principles of mindfulness, its applications, and how it can improve mental and emotional health.",
+  "popularTopics": [
+    "Mindfulness Meditation",
+    "Daily Mindfulness Practices",
+    "Mindfulness for Stress Reduction"
+  ],
+  "seoKeywords": "mindfulness, meditation, stress relief, techniques",
+  "keywords": [
+    "mindfulness",
+    "mindfulness techniques",
+    "stress reduction"
+  ]
+}

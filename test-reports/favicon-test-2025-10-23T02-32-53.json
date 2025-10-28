@@ -1,0 +1,70 @@
+{
+  "timestamp": "2025-10-23T02:32:53.087Z",
+  "testConfig": {
+    "testRounds": 2,
+    "siteName": "SoulNestor",
+    "faviconDir": "D:\\chrome download\\astrotemp-main (1)\\astrotemp-main\\public\\favicon",
+    "aiGeneratedDir": "D:\\chrome download\\astrotemp-main (1)\\astrotemp-main\\public\\ai-generated",
+    "reportDir": "D:\\chrome download\\astrotemp-main (1)\\astrotemp-main\\test-reports",
+    "transparencyThreshold": 50
+  },
+  "totalTests": 2,
+  "successCount": 2,
+  "successRate": 100,
+  "transparencyStats": {},
+  "warnings": [],
+  "detailedResults": [
+    {
+      "round": 1,
+      "timestamp": "2025-10-23T02:30:28.300Z",
+      "success": true,
+      "images": {
+        "Site Theme": {
+          "error": "File not found"
+        },
+        "Site Logo": {
+          "error": "File not found"
+        },
+        "Favicon": {
+          "error": "File not found"
+        },
+        "apple-touch-icon.png": {
+          "error": "File not found"
+        },
+        "favicon-32x32.png": {
+          "error": "File not found"
+        },
+        "favicon-16x16.png": {
+          "error": "File not found"
+        }
+      },
+      "errors": []
+    },
+    {
+      "round": 2,
+      "timestamp": "2025-10-23T02:31:46.124Z",
+      "success": true,
+      "images": {
+        "Site Theme": {
+          "error": "File not found"
+        },
+        "Site Logo": {
+          "error": "File not found"
+        },
+        "Favicon": {
+          "error": "File not found"
+        },
+        "apple-touch-icon.png": {
+          "error": "File not found"
+        },
+        "favicon-32x32.png": {
+          "error": "File not found"
+        },
+        "favicon-16x16.png": {
+          "error": "File not found"
+        }
+      },
+      "errors": []
+    }
+  ]
+}

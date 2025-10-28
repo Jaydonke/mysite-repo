@@ -1,0 +1,233 @@
+{
+  "timestamp": "2025-10-23T02:47:16.589Z",
+  "testConfig": {
+    "testRounds": 5,
+    "siteName": "SoulNestor",
+    "faviconDir": "D:\\chrome download\\astrotemp-main (1)\\astrotemp-main\\public\\favicon",
+    "aiGeneratedDir": "D:\\chrome download\\astrotemp-main (1)\\astrotemp-main\\public\\ai-generated",
+    "reportDir": "D:\\chrome download\\astrotemp-main (1)\\astrotemp-main\\test-reports",
+    "transparencyThreshold": 50
+  },
+  "totalTests": 5,
+  "successCount": 5,
+  "successRate": 100,
+  "transparencyStats": {
+    "Favicon Source": {
+      "average": "61.99",
+      "min": "0.28",
+      "max": "81.96",
+      "samples": 5
+    }
+  },
+  "warnings": [
+    "轮次1 - Favicon Source: 透明度0.28%低于阈值",
+    "轮次1 - Favicon Source: 检测到colored背景未完全移除"
+  ],
+  "detailedResults": [
+    {
+      "round": 1,
+      "timestamp": "2025-10-23T02:40:55.827Z",
+      "success": true,
+      "images": {
+        "Site Theme": {
+          "error": "File not found"
+        },
+        "Site Logo": {
+          "error": "File not found"
+        },
+        "Favicon Source": {
+          "hasAlpha": true,
+          "fileSize": 647110,
+          "dimensions": "1024x1024",
+          "totalPixels": 1048576,
+          "transparentPixels": 0,
+          "semiTransparentPixels": 5863,
+          "opaquePixels": 1042713,
+          "transparencyPercent": 0.28,
+          "backgroundType": "colored",
+          "avgEdgeColor": {
+            "r": 0,
+            "g": 120,
+            "b": 91,
+            "a": 255
+          },
+          "edgeBrightness": "70.3"
+        },
+        "apple-touch-icon.png": {
+          "error": "File not found"
+        },
+        "favicon-32x32.png": {
+          "error": "File not found"
+        },
+        "favicon-16x16.png": {
+          "error": "File not found"
+        }
+      },
+      "errors": []
+    },
+    {
+      "round": 2,
+      "timestamp": "2025-10-23T02:42:19.802Z",
+      "success": true,
+      "images": {
+        "Site Theme": {
+          "error": "File not found"
+        },
+        "Site Logo": {
+          "error": "File not found"
+        },
+        "Favicon Source": {
+          "hasAlpha": true,
+          "fileSize": 142571,
+          "dimensions": "1024x1024",
+          "totalPixels": 1048576,
+          "transparentPixels": 818562,
+          "semiTransparentPixels": 21621,
+          "opaquePixels": 208393,
+          "transparencyPercent": 79.1,
+          "backgroundType": "transparent",
+          "avgEdgeColor": {
+            "r": 76,
+            "g": 105,
+            "b": 113,
+            "a": 0
+          },
+          "edgeBrightness": "98.0"
+        },
+        "apple-touch-icon.png": {
+          "error": "File not found"
+        },
+        "favicon-32x32.png": {
+          "error": "File not found"
+        },
+        "favicon-16x16.png": {
+          "error": "File not found"
+        }
+      },
+      "errors": []
+    },
+    {
+      "round": 3,
+      "timestamp": "2025-10-23T02:43:30.090Z",
+      "success": true,
+      "images": {
+        "Site Theme": {
+          "error": "File not found"
+        },
+        "Site Logo": {
+          "error": "File not found"
+        },
+        "Favicon Source": {
+          "hasAlpha": true,
+          "fileSize": 172517,
+          "dimensions": "1024x1024",
+          "totalPixels": 1048576,
+          "transparentPixels": 757690,
+          "semiTransparentPixels": 77303,
+          "opaquePixels": 213583,
+          "transparencyPercent": 75.95,
+          "backgroundType": "transparent",
+          "avgEdgeColor": {
+            "r": 76,
+            "g": 105,
+            "b": 113,
+            "a": 0
+          },
+          "edgeBrightness": "98.0"
+        },
+        "apple-touch-icon.png": {
+          "error": "File not found"
+        },
+        "favicon-32x32.png": {
+          "error": "File not found"
+        },
+        "favicon-16x16.png": {
+          "error": "File not found"
+        }
+      },
+      "errors": []
+    },
+    {
+      "round": 4,
+      "timestamp": "2025-10-23T02:44:40.389Z",
+      "success": true,
+      "images": {
+        "Site Theme": {
+          "error": "File not found"
+        },
+        "Site Logo": {
+          "error": "File not found"
+        },
+        "Favicon Source": {
+          "hasAlpha": true,
+          "fileSize": 125056,
+          "dimensions": "1024x1024",
+          "totalPixels": 1048576,
+          "transparentPixels": 854925,
+          "semiTransparentPixels": 8877,
+          "opaquePixels": 184774,
+          "transparencyPercent": 81.96,
+          "backgroundType": "transparent",
+          "avgEdgeColor": {
+            "r": 81,
+            "g": 109,
+            "b": 117,
+            "a": 5
+          },
+          "edgeBrightness": "102.3"
+        },
+        "apple-touch-icon.png": {
+          "error": "File not found"
+        },
+        "favicon-32x32.png": {
+          "error": "File not found"
+        },
+        "favicon-16x16.png": {
+          "error": "File not found"
+        }
+      },
+      "errors": []
+    },
+    {
+      "round": 5,
+      "timestamp": "2025-10-23T02:45:57.703Z",
+      "success": true,
+      "images": {
+        "Site Theme": {
+          "error": "File not found"
+        },
+        "Site Logo": {
+          "error": "File not found"
+        },
+        "Favicon Source": {
+          "hasAlpha": true,
+          "fileSize": 240942,
+          "dimensions": "1024x1024",
+          "totalPixels": 1048576,
+          "transparentPixels": 760770,
+          "semiTransparentPixels": 2597,
+          "opaquePixels": 285209,
+          "transparencyPercent": 72.68,
+          "backgroundType": "transparent",
+          "avgEdgeColor": {
+            "r": 76,
+            "g": 105,
+            "b": 113,
+            "a": 0
+          },
+          "edgeBrightness": "98.0"
+        },
+        "apple-touch-icon.png": {
+          "error": "File not found"
+        },
+        "favicon-32x32.png": {
+          "error": "File not found"
+        },
+        "favicon-16x16.png": {
+          "error": "File not found"
+        }
+      },
+      "errors": []
+    }
+  ]
+}

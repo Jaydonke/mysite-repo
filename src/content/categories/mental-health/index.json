@@ -1,0 +1,21 @@
+{
+  "id": "mental-health",
+  "name": "Mental Health",
+  "description": "Explore a range of topics focused on mental well-being and strategies for a healthier mind.",
+  "shortDescription": "Mental health insights and strategies.",
+  "icon": "📱",
+  "color": "#FF5733",
+  "aboutContent": "This category delves into mental health awareness, coping mechanisms, and support systems for individuals seeking assistance.",
+  "detailedDescription": "A comprehensive resource covering various aspects of mental health, including common disorders, treatment options, and self-help strategies.",
+  "popularTopics": [
+    "Anxiety Management",
+    "Depression Support",
+    "Mindfulness Techniques"
+  ],
+  "seoKeywords": "mental health, coping strategies, therapy, support",
+  "keywords": [
+    "mental health",
+    "therapy options",
+    "self-care strategies"
+  ]
+}

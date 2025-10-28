@@ -1,0 +1,21 @@
+{
+  "id": "self-care",
+  "name": "Self-Care",
+  "description": "Discover self-care practices to improve your overall well-being and mental health.",
+  "shortDescription": "Self-care tips and strategies.",
+  "icon": "💆‍♀️",
+  "color": "#2196F3",
+  "aboutContent": "This category emphasizes the importance of self-care in maintaining mental and physical health.",
+  "detailedDescription": "An extensive guide on self-care practices, including tips, routines, and the significance of self-care for maintaining balance in life.",
+  "popularTopics": [
+    "Self-Care Routines",
+    "Effective Self-Care Strategies",
+    "Self-Care for Mental Health"
+  ],
+  "seoKeywords": "self-care, wellness, routines, mental health",
+  "keywords": [
+    "self-care",
+    "self-care strategies",
+    "self-care practices"
+  ]
+}

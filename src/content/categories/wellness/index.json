@@ -1,0 +1,21 @@
+{
+  "id": "wellness",
+  "name": "Wellness",
+  "description": "Explore holistic wellness approaches to enhance your overall health and happiness.",
+  "shortDescription": "Holistic wellness insights.",
+  "icon": "🌱",
+  "color": "#8BC34A",
+  "aboutContent": "This category encompasses various aspects of wellness, including physical, mental, and emotional health.",
+  "detailedDescription": "A rich source of information on wellness practices, their benefits, and how to implement them in daily life for improved quality of life.",
+  "popularTopics": [
+    "Holistic Wellness Approaches",
+    "Nutrition for Wellness",
+    "Physical Activity and Wellness"
+  ],
+  "seoKeywords": "wellness, health, holistic, practices",
+  "keywords": [
+    "wellness",
+    "holistic health",
+    "wellness practices"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "therapy",
+  "name": "Therapy",
+  "description": "Resources on various therapy options available for mental health support.",
+  "shortDescription": "Guide to different therapy types.",
+  "icon": "🧑‍⚕️",
+  "color": "#F44336",
+  "aboutContent": "This category provides insights into different types of therapy, their approaches, and how they can help individuals.",
+  "detailedDescription": "An informative guide covering various therapeutic approaches, their benefits, and how to choose the right type of therapy for individual needs.",
+  "popularTopics": [
+    "Cognitive Behavioral Therapy",
+    "Finding a Therapist",
+    "Therapy for Anxiety"
+  ],
+  "seoKeywords": "therapy, mental health, options, support",
+  "keywords": [
+    "therapy",
+    "types of therapy",
+    "therapy options"
+  ]
+}

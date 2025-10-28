@@ -1,0 +1,9 @@
+{
+  "currentTheme": "soulnestor-theme",
+  "fallbackTheme": "mental-health",
+  "themeSettings": {
+    "enableSmartCategorization": true,
+    "enableManualOverride": true,
+    "logCategoryDecisions": true
+  }
+}

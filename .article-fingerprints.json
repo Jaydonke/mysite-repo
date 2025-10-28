@@ -1,0 +1,609 @@
+{
+  "version": "2.0",
+  "generated": "2025-10-16T10:28:03.775Z",
+  "processedPositions": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35,
+    36,
+    37,
+    38,
+    39
+  ],
+  "totalArticles": 40,
+  "processedDetails": {
+    "0": {
+      "originalTopic": "The Ultimate Guide to Mental Health & Mindfulness",
+      "category": "mental-health",
+      "keywords": [
+        "mental health tips",
+        "mindfulness techniques",
+        "wellness strategies",
+        "self-care practices"
+      ],
+      "generated": {
+        "htmlFile": "The Ultimate Guide to Mental Health Mindfulness Tips Techniques and Strategies.html",
+        "timestamp": "2025-10-16T09:49:46.191Z"
+      }
+    },
+    "1": {
+      "originalTopic": "Complete Guide to Stress Management Techniques",
+      "category": "stress-management",
+      "keywords": [
+        "stress management tips",
+        "current stress relief methods",
+        "best stress reduction strategies",
+        "guide to stress management"
+      ],
+      "generated": {
+        "htmlFile": "Complete Guide to Stress Management Techniques.html",
+        "timestamp": "2025-10-16T09:49:46.191Z"
+      }
+    },
+    "2": {
+      "originalTopic": "The Definitive Guide to Wellness and Self-Care",
+      "category": "wellness",
+      "keywords": [
+        "wellness practices",
+        "self-care routines",
+        "complete wellness guide",
+        "self-care strategies"
+      ],
+      "generated": {
+        "htmlFile": "The Definitive Guide to Wellness and SelfCare Your Complete Wellness Guide.html",
+        "timestamp": "2025-10-16T09:49:46.191Z"
+      }
+    },
+    "3": {
+      "originalTopic": "Everything You Need to Know About Meditation",
+      "category": "meditation",
+      "keywords": [
+        "meditation techniques",
+        "beginner meditation guide",
+        "mindfulness meditation practices",
+        "benefits of meditation"
+      ],
+      "generated": {
+        "htmlFile": "Everything You Need to Know About Meditation Techniques Benefits and Trends.html",
+        "timestamp": "2025-10-16T09:49:46.191Z"
+      }
+    },
+    "4": {
+      "originalTopic": "How to Practice Mindfulness Daily",
+      "category": "mindfulness",
+      "keywords": [
+        "how to practice mindfulness",
+        "daily mindfulness techniques",
+        "mindfulness routine tips",
+        "mindfulness exercises"
+      ],
+      "generated": {
+        "htmlFile": "How to Practice Mindfulness Daily Techniques and Tips for a Balanced Life.html",
+        "timestamp": "2025-10-16T09:49:46.191Z"
+      }
+    },
+    "5": {
+      "originalTopic": "Step-by-Step Guide to Self-Care for Mental Health",
+      "category": "self-care",
+      "keywords": [
+        "self-care for mental health",
+        "guide to self-care",
+        "self-care strategies",
+        "how to practice self-care"
+      ],
+      "generated": {
+        "htmlFile": "StepbyStep Guide to SelfCare for Mental Health.html",
+        "timestamp": "2025-10-16T09:49:46.191Z"
+      }
+    },
+    "6": {
+      "originalTopic": "How to Reduce Stress at Work",
+      "category": "stress-management",
+      "keywords": [
+        "reduce stress at work",
+        "workplace stress management",
+        "tips for stress relief",
+        "stress reduction techniques"
+      ],
+      "generated": {
+        "htmlFile": "Effective Strategies to Reduce Stress at Work Workplace Stress Management Tips.html",
+        "timestamp": "2025-10-16T09:49:46.191Z"
+      }
+    },
+    "7": {
+      "originalTopic": "How to Start a Meditation Practice",
+      "category": "meditation",
+      "keywords": [
+        "start meditation practice",
+        "beginner meditation tips",
+        "how to meditate",
+        "meditation for beginners"
+      ],
+      "generated": {
+        "htmlFile": "How to Start a Meditation Practice Essential Tips for Beginners.html",
+        "timestamp": "2025-10-16T09:49:46.191Z"
+      }
+    },
+    "8": {
+      "originalTopic": "How to Build a Supportive Community for Mental Health",
+      "category": "community-support",
+      "keywords": [
+        "community support mental health",
+        "building support networks",
+        "how to find community",
+        "support groups for mental health"
+      ],
+      "generated": {
+        "htmlFile": "Building a Supportive Community for Mental Health Strategies and Insights.html",
+        "timestamp": "2025-10-16T09:49:46.191Z"
+      }
+    },
+    "9": {
+      "originalTopic": "Top 10 Mindfulness Techniques You Should Try",
+      "category": "mindfulness",
+      "keywords": [
+        "top mindfulness techniques",
+        "best mindfulness practices",
+        "mindfulness methods",
+        "mindfulness techniques list"
+      ],
+      "generated": {
+        "htmlFile": "Top 10 Mindfulness Techniques You Should Try for Better WellBeing.html",
+        "timestamp": "2025-10-16T09:49:46.191Z"
+      }
+    },
+    "10": {
+      "originalTopic": "Best Meditation Apps for Beginners",
+      "category": "meditation",
+      "keywords": [
+        "best meditation apps",
+        "meditation apps for beginners",
+        "top meditation apps",
+        "current meditation app reviews"
+      ],
+      "generated": {
+        "htmlFile": "Best Meditation Apps for Beginners Your Ultimate Guide.html",
+        "timestamp": "2025-10-16T09:49:46.191Z"
+      }
+    },
+    "11": {
+      "originalTopic": "Essential Self-Care Practices for Everyone",
+      "category": "self-care",
+      "keywords": [
+        "essential self-care practices",
+        "self-care tips",
+        "self-care ideas",
+        "best self-care methods"
+      ],
+      "generated": {
+        "htmlFile": "Essential SelfCare Practices for Everyone Unlocking WellBeing.html",
+        "timestamp": "2025-10-16T09:49:46.191Z"
+      }
+    },
+    "12": {
+      "originalTopic": "Top 5 Stress Relief Techniques You Can Use Today",
+      "category": "stress-management",
+      "keywords": [
+        "top stress relief techniques",
+        "best stress relief tips",
+        "current stress relief methods",
+        "stress relief practices"
+      ],
+      "generated": {
+        "htmlFile": "Top 5 Stress Relief Techniques You Can Use Today.html",
+        "timestamp": "2025-10-16T09:49:46.191Z"
+      }
+    },
+    "13": {
+      "originalTopic": "Beginner's Guide to Meditation Techniques",
+      "category": "meditation",
+      "keywords": [
+        "beginner meditation techniques",
+        "how to meditate",
+        "meditation for beginners",
+        "starting meditation practice"
+      ],
+      "generated": {
+        "htmlFile": "Beginners Guide to Meditation Techniques Discover How to Meditate.html",
+        "timestamp": "2025-10-16T09:49:46.191Z"
+      }
+    },
+    "14": {
+      "originalTopic": "Getting Started with Mindfulness for Stress Reduction",
+      "category": "mindfulness",
+      "keywords": [
+        "mindfulness for stress reduction",
+        "how to start mindfulness",
+        "beginner mindfulness guide",
+        "mindfulness techniques"
+      ],
+      "generated": {
+        "htmlFile": "Getting Started with Mindfulness for Stress Reduction A Beginners Guide.html",
+        "timestamp": "2025-10-16T09:49:46.191Z"
+      }
+    },
+    "15": {
+      "originalTopic": "Understanding the Importance of Self-Care",
+      "category": "self-care",
+      "keywords": [
+        "importance of self-care",
+        "understanding self-care",
+        "benefits of self-care",
+        "self-care for mental health"
+      ],
+      "generated": {
+        "htmlFile": "Understanding the Importance of SelfCare A Comprehensive Guide.html",
+        "timestamp": "2025-10-16T09:49:46.191Z"
+      }
+    },
+    "16": {
+      "originalTopic": "Exploring Different Types of Therapy",
+      "category": "therapy",
+      "keywords": [
+        "types of therapy",
+        "therapy options",
+        "understanding therapy methods",
+        "best therapy techniques"
+      ],
+      "generated": {
+        "htmlFile": "Exploring Different Types of Therapy A Comprehensive Guide.html",
+        "timestamp": "2025-10-16T09:49:46.191Z"
+      }
+    },
+    "17": {
+      "originalTopic": "Analyzing Mindfulness vs. Traditional Stress Relief",
+      "category": "mindfulness",
+      "keywords": [
+        "mindfulness vs traditional methods",
+        "comparing mindfulness techniques",
+        "stress relief methods comparison",
+        "best stress relief techniques"
+      ],
+      "generated": {
+        "htmlFile": "Mindfulness vs Traditional Stress Relief A Comprehensive Analysis.html",
+        "timestamp": "2025-10-16T09:49:46.191Z"
+      }
+    },
+    "18": {
+      "originalTopic": "Comparing Meditation Styles: Mindfulness vs. Transcendental",
+      "category": "meditation",
+      "keywords": [
+        "mindfulness vs transcendental",
+        "comparing meditation styles",
+        "meditation style guide",
+        "best meditation practices"
+      ],
+      "generated": {
+        "htmlFile": "Comparing Meditation Styles Mindfulness vs Transcendental.html",
+        "timestamp": "2025-10-16T09:49:46.191Z"
+      }
+    },
+    "19": {
+      "originalTopic": "How to Create a Self-Care Plan",
+      "category": "self-care",
+      "keywords": [
+        "create self-care plan",
+        "self-care planning tips",
+        "how to plan self-care",
+        "self-care strategy guide"
+      ],
+      "generated": {
+        "htmlFile": "How to Create a SelfCare Plan A Comprehensive Guide.html",
+        "timestamp": "2025-10-16T09:49:46.191Z"
+      }
+    },
+    "20": {
+      "originalTopic": "Understanding Anxiety and Its Effects on Mental Health",
+      "category": "mental-health",
+      "keywords": [
+        "understanding anxiety",
+        "effects of anxiety",
+        "anxiety and mental health",
+        "anxiety management strategies"
+      ],
+      "generated": {
+        "htmlFile": "Understanding Anxiety and Its Effects on Mental Health.html",
+        "timestamp": "2025-10-16T09:49:46.191Z"
+      }
+    },
+    "21": {
+      "originalTopic": "Best Practices for Community Support in Mental Health",
+      "category": "community-support",
+      "keywords": [
+        "community support practices",
+        "mental health support groups",
+        "building community support",
+        "best community support methods"
+      ],
+      "generated": {
+        "htmlFile": "Best Practices for Community Support in Mental Health.html",
+        "timestamp": "2025-10-16T09:49:46.191Z"
+      }
+    },
+    "22": {
+      "originalTopic": "How to Find a Therapist That’s Right for You",
+      "category": "therapy",
+      "keywords": [
+        "find the right therapist",
+        "how to choose a therapist",
+        "tips for finding a therapist",
+        "best therapist for you"
+      ],
+      "generated": {
+        "htmlFile": "How to Find the Right Therapist A Comprehensive Guide.html",
+        "timestamp": "2025-10-16T09:49:46.191Z"
+      }
+    },
+    "23": {
+      "originalTopic": "Essential Tips for Stress Management",
+      "category": "stress-management",
+      "keywords": [
+        "tips for stress management",
+        "stress management techniques",
+        "best stress management tips",
+        "stress relief methods"
+      ],
+      "generated": {
+        "htmlFile": "Essential Tips for Stress Management Techniques for a Balanced Life.html",
+        "timestamp": "2025-10-16T09:49:46.191Z"
+      }
+    },
+    "24": {
+      "originalTopic": "Exploring the Benefits of Mindfulness Meditation",
+      "category": "meditation",
+      "keywords": [
+        "benefits of mindfulness meditation",
+        "exploring mindfulness",
+        "mindfulness meditation effects",
+        "mindfulness practices"
+      ],
+      "generated": {
+        "htmlFile": "Exploring the Benefits of Mindfulness Meditation.html",
+        "timestamp": "2025-10-16T09:49:46.191Z"
+      }
+    },
+    "25": {
+      "originalTopic": "The Impact of Nature on Mental Wellbeing",
+      "category": "mental-health",
+      "keywords": [
+        "nature and mental health",
+        "benefits of nature therapy",
+        "outdoor activities for wellness",
+        "healing properties of nature"
+      ],
+      "generated": {
+        "htmlFile": "The Impact of Nature on Mental Wellbeing Exploring Nature and Mental Health.html",
+        "timestamp": "2025-10-16T10:28:03.774Z"
+      }
+    },
+    "26": {
+      "originalTopic": "How to Practice Mindful Eating for Better Health",
+      "category": "mindfulness",
+      "keywords": [
+        "mindful eating techniques",
+        "benefits of mindful eating",
+        "how to eat mindfully",
+        "mindfulness in nutrition"
+      ],
+      "generated": {
+        "htmlFile": "Mastering Mindful Eating Techniques for Better Health.html",
+        "timestamp": "2025-10-16T10:28:03.775Z"
+      }
+    },
+    "27": {
+      "originalTopic": "Innovative Self-Care Ideas for Busy Lives",
+      "category": "self-care",
+      "keywords": [
+        "unique self-care activities",
+        "self-care tips for busy people",
+        "creative self-care practices",
+        "self-care on a schedule"
+      ],
+      "generated": {
+        "htmlFile": "Innovative SelfCare Ideas for Busy Lives Unique SelfCare Activities.html",
+        "timestamp": "2025-10-16T10:28:03.775Z"
+      }
+    },
+    "28": {
+      "originalTopic": "Understanding Emotional Triggers and Their Management",
+      "category": "stress-management",
+      "keywords": [
+        "managing emotional triggers",
+        "understanding emotional responses",
+        "emotional triggers and stress",
+        "how to cope with triggers"
+      ],
+      "generated": {
+        "htmlFile": "Understanding Emotional Triggers and Their Management A Comprehensive Guide.html",
+        "timestamp": "2025-10-16T10:28:03.775Z"
+      }
+    },
+    "29": {
+      "originalTopic": "Exploring Holistic Wellness Practices for Balance",
+      "category": "wellness",
+      "keywords": [
+        "holistic wellness methods",
+        "integrative wellness practices",
+        "wellness and balance",
+        "natural wellness approaches"
+      ],
+      "generated": {
+        "htmlFile": "Exploring Holistic Wellness Practices for Balance.html",
+        "timestamp": "2025-10-16T10:28:03.775Z"
+      }
+    },
+    "30": {
+      "originalTopic": "The Role of Sound Healing in Mindfulness Practices",
+      "category": "meditation",
+      "keywords": [
+        "sound healing benefits",
+        "using sound in meditation",
+        "sound therapy techniques",
+        "mindfulness and sound healing"
+      ],
+      "generated": {
+        "htmlFile": "Exploring the Role of Sound Healing in Mindfulness Practices.html",
+        "timestamp": "2025-10-16T10:28:03.775Z"
+      }
+    },
+    "31": {
+      "originalTopic": "Comparing Talk Therapy to Art Therapy for Mental Health",
+      "category": "therapy",
+      "keywords": [
+        "talk therapy vs art therapy",
+        "benefits of art therapy",
+        "mental health therapy comparisons",
+        "types of therapy explained"
+      ],
+      "generated": {
+        "htmlFile": "Comparing Talk Therapy to Art Therapy for Mental Health.html",
+        "timestamp": "2025-10-16T10:28:03.775Z"
+      }
+    },
+    "32": {
+      "originalTopic": "How to Cultivate Resilience Through Community Support",
+      "category": "community-support",
+      "keywords": [
+        "building resilience through community",
+        "importance of community support",
+        "community for mental health",
+        "strengthening community ties"
+      ],
+      "generated": {
+        "htmlFile": "Cultivating Resilience Through Community Support Building Resilience Together.html",
+        "timestamp": "2025-10-16T10:28:03.775Z"
+      }
+    },
+    "33": {
+      "originalTopic": "Techniques for Mindful Parenting in a Digital Age",
+      "category": "mindfulness",
+      "keywords": [
+        "mindful parenting strategies",
+        "parenting in digital world",
+        "mindfulness for parents",
+        "how to be a mindful parent"
+      ],
+      "generated": {
+        "htmlFile": "Mindful Parenting Strategies for Thriving in a Digital World.html",
+        "timestamp": "2025-10-16T10:28:03.775Z"
+      }
+    },
+    "34": {
+      "originalTopic": "Understanding the Connection Between Nutrition and Mental Health",
+      "category": "mental-health",
+      "keywords": [
+        "nutrition for mental health",
+        "diet and mental wellbeing",
+        "food effects on mood",
+        "healthy eating for mental health"
+      ],
+      "generated": {
+        "htmlFile": "Understanding the Connection Between Nutrition and Mental Health.html",
+        "timestamp": "2025-10-16T10:28:03.775Z"
+      }
+    },
+    "35": {
+      "originalTopic": "Top 10 Inspirational Podcasts for Mental Wellness",
+      "category": "wellness",
+      "keywords": [
+        "best wellness podcasts",
+        "podcasts for mental health",
+        "inspirational podcast recommendations",
+        "mental wellness podcast list"
+      ],
+      "generated": {
+        "htmlFile": "Top 10 Inspirational Podcasts for Mental Wellness.html",
+        "timestamp": "2025-10-16T10:28:03.775Z"
+      }
+    },
+    "36": {
+      "originalTopic": "Mindfulness Techniques to Enhance Creativity",
+      "category": "mindfulness",
+      "keywords": [
+        "mindfulness for creativity",
+        "boosting creativity with mindfulness",
+        "creative thinking techniques",
+        "mindfulness exercises for artists"
+      ],
+      "generated": {
+        "htmlFile": "Mindfulness for Creativity Techniques to Boost Creative Thinking.html",
+        "timestamp": "2025-10-16T10:28:03.775Z"
+      }
+    },
+    "37": {
+      "originalTopic": "Practical Tips for Self-Care During Life Transitions",
+      "category": "self-care",
+      "keywords": [
+        "self-care during transitions",
+        "how to care for yourself",
+        "navigating life changes",
+        "self-care strategies for change"
+      ],
+      "generated": {
+        "htmlFile": "Practical Tips for SelfCare During Life Transitions Strategies for Navigating Ch.html",
+        "timestamp": "2025-10-16T10:28:03.775Z"
+      }
+    },
+    "38": {
+      "originalTopic": "Exploring the Benefits of Group Therapy for Anxiety",
+      "category": "therapy",
+      "keywords": [
+        "group therapy for anxiety",
+        "benefits of group therapy",
+        "support groups for anxiety",
+        "how group therapy works"
+      ],
+      "generated": {
+        "htmlFile": "Exploring the Benefits of Group Therapy for Anxiety.html",
+        "timestamp": "2025-10-16T10:28:03.775Z"
+      }
+    },
+    "39": {
+      "originalTopic": "How to Create a Mindfulness Routine for Daily Life",
+      "category": "mindfulness",
+      "keywords": [
+        "daily mindfulness routine",
+        "incorporating mindfulness into life",
+        "mindfulness practices for everyday",
+        "how to be more mindful"
+      ],
+      "generated": {
+        "htmlFile": "How to Create a Mindfulness Routine for Daily Life.html",
+        "timestamp": "2025-10-16T10:28:03.775Z"
+      }
+    }
+  }
+}

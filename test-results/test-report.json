@@ -1,0 +1,465 @@
+{
+  "testDate": "2025-10-23T09:06:17.284Z",
+  "totalRounds": 3,
+  "completedRounds": 3,
+  "failedRounds": 0,
+  "rounds": [
+    {
+      "round": 1,
+      "timestamp": "2025-10-23T09:02:25.769Z",
+      "files": [
+        {
+          "name": "Favicon",
+          "path": "favicon/favicon.png",
+          "savedPath": "D:\\chrome download\\multiple-main\\test-results\\round-1\\icon-2025-10-23T09-03-44.png",
+          "analysis": {
+            "width": 1024,
+            "height": 1024,
+            "hasAlpha": true,
+            "channels": 4,
+            "totalPixels": 1048576,
+            "transparentPixels": 696453,
+            "semiTransparentPixels": 8832,
+            "opaquePixels": 343291,
+            "whitePixels": 0,
+            "grayPixels": 10656,
+            "coloredPixels": 340196,
+            "transparentPercentage": 66.42,
+            "whitePercentage": 0,
+            "grayPercentage": 1.02,
+            "coloredPercentage": 32.44,
+            "dominantColor": "other",
+            "colorDistribution": {
+              "red": 0,
+              "green": 57408,
+              "blue": 0,
+              "cyan": 0,
+              "magenta": 0,
+              "yellow": 0,
+              "orange": 0,
+              "other": 282788
+            }
+          },
+          "evaluation": {
+            "scores": {
+              "transparency": 30,
+              "purity": 30,
+              "color": 30,
+              "total": 90
+            },
+            "grade": "A+",
+            "issues": [
+              "透明背景占比偏低: 66.42%"
+            ],
+            "recommendations": []
+          }
+        },
+        {
+          "name": "Site Logo",
+          "path": "favicon_io/site-logo.png",
+          "savedPath": "D:\\chrome download\\multiple-main\\test-results\\round-1\\logo-2025-10-23T09-03-44.png",
+          "analysis": {
+            "width": 1024,
+            "height": 1024,
+            "hasAlpha": true,
+            "channels": 4,
+            "totalPixels": 1048576,
+            "transparentPixels": 850610,
+            "semiTransparentPixels": 1913,
+            "opaquePixels": 196053,
+            "whitePixels": 0,
+            "grayPixels": 23,
+            "coloredPixels": 197108,
+            "transparentPercentage": 81.12,
+            "whitePercentage": 0,
+            "grayPercentage": 0,
+            "coloredPercentage": 18.8,
+            "dominantColor": "other",
+            "colorDistribution": {
+              "red": 0,
+              "green": 0,
+              "blue": 0,
+              "cyan": 0,
+              "magenta": 0,
+              "yellow": 0,
+              "orange": 0,
+              "other": 197108
+            }
+          },
+          "evaluation": {
+            "scores": {
+              "transparency": 40,
+              "purity": 30,
+              "color": 30,
+              "total": 100
+            },
+            "grade": "A+",
+            "issues": [],
+            "recommendations": []
+          }
+        },
+        {
+          "name": "Site Theme",
+          "path": "favicon_io/site-theme.png",
+          "savedPath": "D:\\chrome download\\multiple-main\\test-results\\round-1\\theme-2025-10-23T09-03-44.png",
+          "analysis": {
+            "width": 1024,
+            "height": 1024,
+            "hasAlpha": true,
+            "channels": 4,
+            "totalPixels": 1048576,
+            "transparentPixels": 701885,
+            "semiTransparentPixels": 7410,
+            "opaquePixels": 339281,
+            "whitePixels": 0,
+            "grayPixels": 102494,
+            "coloredPixels": 244197,
+            "transparentPercentage": 66.94,
+            "whitePercentage": 0,
+            "grayPercentage": 9.77,
+            "coloredPercentage": 23.29,
+            "dominantColor": "other",
+            "colorDistribution": {
+              "red": 0,
+              "green": 93257,
+              "blue": 0,
+              "cyan": 0,
+              "magenta": 0,
+              "yellow": 0,
+              "orange": 0,
+              "other": 150940
+            }
+          },
+          "evaluation": {
+            "scores": {
+              "transparency": 30,
+              "purity": 20,
+              "color": 30,
+              "total": 80
+            },
+            "grade": "A-",
+            "issues": [
+              "透明背景占比偏低: 66.94%",
+              "存在少量背景残留: 9.77%"
+            ],
+            "recommendations": []
+          }
+        }
+      ],
+      "summary": {
+        "totalScore": 270,
+        "averageGrade": "A+",
+        "passedFiles": 3,
+        "totalFiles": 3,
+        "averageScore": 90
+      }
+    },
+    {
+      "round": 2,
+      "timestamp": "2025-10-23T09:03:47.089Z",
+      "files": [
+        {
+          "name": "Favicon",
+          "path": "favicon/favicon.png",
+          "savedPath": "D:\\chrome download\\multiple-main\\test-results\\round-2\\icon-2025-10-23T09-04-59.png",
+          "analysis": {
+            "width": 1024,
+            "height": 1024,
+            "hasAlpha": true,
+            "channels": 4,
+            "totalPixels": 1048576,
+            "transparentPixels": 859042,
+            "semiTransparentPixels": 3757,
+            "opaquePixels": 185777,
+            "whitePixels": 0,
+            "grayPixels": 18991,
+            "coloredPixels": 170543,
+            "transparentPercentage": 81.92,
+            "whitePercentage": 0,
+            "grayPercentage": 1.81,
+            "coloredPercentage": 16.26,
+            "dominantColor": "other",
+            "colorDistribution": {
+              "red": 0,
+              "green": 66418,
+              "blue": 0,
+              "cyan": 0,
+              "magenta": 0,
+              "yellow": 0,
+              "orange": 0,
+              "other": 104125
+            }
+          },
+          "evaluation": {
+            "scores": {
+              "transparency": 40,
+              "purity": 30,
+              "color": 30,
+              "total": 100
+            },
+            "grade": "A+",
+            "issues": [],
+            "recommendations": []
+          }
+        },
+        {
+          "name": "Site Logo",
+          "path": "favicon_io/site-logo.png",
+          "savedPath": "D:\\chrome download\\multiple-main\\test-results\\round-2\\logo-2025-10-23T09-04-59.png",
+          "analysis": {
+            "width": 1024,
+            "height": 1024,
+            "hasAlpha": true,
+            "channels": 4,
+            "totalPixels": 1048576,
+            "transparentPixels": 140371,
+            "semiTransparentPixels": 2603,
+            "opaquePixels": 905602,
+            "whitePixels": 564775,
+            "grayPixels": 129115,
+            "coloredPixels": 212443,
+            "transparentPercentage": 13.39,
+            "whitePercentage": 53.86,
+            "grayPercentage": 12.31,
+            "coloredPercentage": 20.26,
+            "dominantColor": "other",
+            "colorDistribution": {
+              "red": 0,
+              "green": 26657,
+              "blue": 0,
+              "cyan": 0,
+              "magenta": 0,
+              "yellow": 94,
+              "orange": 0,
+              "other": 185692
+            }
+          },
+          "evaluation": {
+            "scores": {
+              "transparency": 10,
+              "purity": 5,
+              "color": 30,
+              "total": 45
+            },
+            "grade": "D",
+            "issues": [
+              "背景去除失败: 仅13.39%透明",
+              "严重背景残留: 66.17%"
+            ],
+            "recommendations": [
+              "需要检查rembg是否正常工作",
+              "背景去除算法需要改进"
+            ]
+          }
+        },
+        {
+          "name": "Site Theme",
+          "path": "favicon_io/site-theme.png",
+          "savedPath": "D:\\chrome download\\multiple-main\\test-results\\round-2\\theme-2025-10-23T09-04-59.png",
+          "analysis": {
+            "width": 1024,
+            "height": 1024,
+            "hasAlpha": true,
+            "channels": 4,
+            "totalPixels": 1048576,
+            "transparentPixels": 743206,
+            "semiTransparentPixels": 11765,
+            "opaquePixels": 293605,
+            "whitePixels": 53511,
+            "grayPixels": 20591,
+            "coloredPixels": 225619,
+            "transparentPercentage": 70.88,
+            "whitePercentage": 5.1,
+            "grayPercentage": 1.96,
+            "coloredPercentage": 21.52,
+            "dominantColor": "other",
+            "colorDistribution": {
+              "red": 0,
+              "green": 0,
+              "blue": 0,
+              "cyan": 0,
+              "magenta": 0,
+              "yellow": 0,
+              "orange": 0,
+              "other": 225619
+            }
+          },
+          "evaluation": {
+            "scores": {
+              "transparency": 40,
+              "purity": 20,
+              "color": 30,
+              "total": 90
+            },
+            "grade": "A+",
+            "issues": [
+              "存在少量背景残留: 7.06%"
+            ],
+            "recommendations": []
+          }
+        }
+      ],
+      "summary": {
+        "totalScore": 235,
+        "averageGrade": "B+",
+        "passedFiles": 2,
+        "totalFiles": 3,
+        "averageScore": 78.33333333333333
+      }
+    },
+    {
+      "round": 3,
+      "timestamp": "2025-10-23T09:05:02.127Z",
+      "files": [
+        {
+          "name": "Favicon",
+          "path": "favicon/favicon.png",
+          "savedPath": "D:\\chrome download\\multiple-main\\test-results\\round-3\\icon-2025-10-23T09-06-17.png",
+          "analysis": {
+            "width": 1024,
+            "height": 1024,
+            "hasAlpha": true,
+            "channels": 4,
+            "totalPixels": 1048576,
+            "transparentPixels": 738612,
+            "semiTransparentPixels": 1905,
+            "opaquePixels": 308059,
+            "whitePixels": 0,
+            "grayPixels": 1663,
+            "coloredPixels": 308015,
+            "transparentPercentage": 70.44,
+            "whitePercentage": 0,
+            "grayPercentage": 0.16,
+            "coloredPercentage": 29.37,
+            "dominantColor": "other",
+            "colorDistribution": {
+              "red": 0,
+              "green": 119505,
+              "blue": 0,
+              "cyan": 0,
+              "magenta": 0,
+              "yellow": 0,
+              "orange": 0,
+              "other": 188510
+            }
+          },
+          "evaluation": {
+            "scores": {
+              "transparency": 40,
+              "purity": 30,
+              "color": 30,
+              "total": 100
+            },
+            "grade": "A+",
+            "issues": [],
+            "recommendations": []
+          }
+        },
+        {
+          "name": "Site Logo",
+          "path": "favicon_io/site-logo.png",
+          "savedPath": "D:\\chrome download\\multiple-main\\test-results\\round-3\\logo-2025-10-23T09-06-17.png",
+          "analysis": {
+            "width": 1024,
+            "height": 1024,
+            "hasAlpha": true,
+            "channels": 4,
+            "totalPixels": 1048576,
+            "transparentPixels": 710145,
+            "semiTransparentPixels": 1342,
+            "opaquePixels": 337089,
+            "whitePixels": 0,
+            "grayPixels": 407,
+            "coloredPixels": 337913,
+            "transparentPercentage": 67.72,
+            "whitePercentage": 0,
+            "grayPercentage": 0.04,
+            "coloredPercentage": 32.23,
+            "dominantColor": "other",
+            "colorDistribution": {
+              "red": 0,
+              "green": 638,
+              "blue": 0,
+              "cyan": 0,
+              "magenta": 0,
+              "yellow": 367,
+              "orange": 0,
+              "other": 336908
+            }
+          },
+          "evaluation": {
+            "scores": {
+              "transparency": 30,
+              "purity": 30,
+              "color": 30,
+              "total": 90
+            },
+            "grade": "A+",
+            "issues": [
+              "透明背景占比偏低: 67.72%"
+            ],
+            "recommendations": []
+          }
+        },
+        {
+          "name": "Site Theme",
+          "path": "favicon_io/site-theme.png",
+          "savedPath": "D:\\chrome download\\multiple-main\\test-results\\round-3\\theme-2025-10-23T09-06-17.png",
+          "analysis": {
+            "width": 1024,
+            "height": 1024,
+            "hasAlpha": true,
+            "channels": 4,
+            "totalPixels": 1048576,
+            "transparentPixels": 865887,
+            "semiTransparentPixels": 4077,
+            "opaquePixels": 178612,
+            "whitePixels": 0,
+            "grayPixels": 6297,
+            "coloredPixels": 175934,
+            "transparentPercentage": 82.58,
+            "whitePercentage": 0,
+            "grayPercentage": 0.6,
+            "coloredPercentage": 16.78,
+            "dominantColor": "other",
+            "colorDistribution": {
+              "red": 0,
+              "green": 34735,
+              "blue": 0,
+              "cyan": 0,
+              "magenta": 0,
+              "yellow": 0,
+              "orange": 0,
+              "other": 141199
+            }
+          },
+          "evaluation": {
+            "scores": {
+              "transparency": 40,
+              "purity": 30,
+              "color": 30,
+              "total": 100
+            },
+            "grade": "A+",
+            "issues": [],
+            "recommendations": []
+          }
+        }
+      ],
+      "summary": {
+        "totalScore": 290,
+        "averageGrade": "A+",
+        "passedFiles": 3,
+        "totalFiles": 3,
+        "averageScore": 96.66666666666667
+      }
+    }
+  ],
+  "overallStatistics": {
+    "averageScore": "88.33",
+    "averageTransparency": "33.33",
+    "averagePurity": "25.00",
+    "averageColor": "30.00",
+    "successRate": "88.89"
+  }
+}

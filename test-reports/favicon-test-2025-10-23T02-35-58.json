@@ -1,0 +1,107 @@
+{
+  "timestamp": "2025-10-23T02:35:58.385Z",
+  "testConfig": {
+    "testRounds": 2,
+    "siteName": "SoulNestor",
+    "faviconDir": "D:\\chrome download\\astrotemp-main (1)\\astrotemp-main\\public\\favicon",
+    "aiGeneratedDir": "D:\\chrome download\\astrotemp-main (1)\\astrotemp-main\\public\\ai-generated",
+    "reportDir": "D:\\chrome download\\astrotemp-main (1)\\astrotemp-main\\test-reports",
+    "transparencyThreshold": 50
+  },
+  "totalTests": 2,
+  "successCount": 2,
+  "successRate": 100,
+  "transparencyStats": {
+    "Favicon Source": {
+      "average": "75.42",
+      "min": "66.21",
+      "max": "84.64",
+      "samples": 2
+    }
+  },
+  "warnings": [],
+  "detailedResults": [
+    {
+      "round": 1,
+      "timestamp": "2025-10-23T02:33:19.264Z",
+      "success": true,
+      "images": {
+        "Site Theme": {
+          "error": "File not found"
+        },
+        "Site Logo": {
+          "error": "File not found"
+        },
+        "Favicon Source": {
+          "hasAlpha": true,
+          "fileSize": 138777,
+          "dimensions": "1024x1024",
+          "totalPixels": 1048576,
+          "transparentPixels": 876587,
+          "semiTransparentPixels": 21913,
+          "opaquePixels": 150076,
+          "transparencyPercent": 84.64,
+          "backgroundType": "transparent",
+          "avgEdgeColor": {
+            "r": 76,
+            "g": 105,
+            "b": 113,
+            "a": 0
+          },
+          "edgeBrightness": "98.0"
+        },
+        "apple-touch-icon.png": {
+          "error": "File not found"
+        },
+        "favicon-32x32.png": {
+          "error": "File not found"
+        },
+        "favicon-16x16.png": {
+          "error": "File not found"
+        }
+      },
+      "errors": []
+    },
+    {
+      "round": 2,
+      "timestamp": "2025-10-23T02:34:40.521Z",
+      "success": true,
+      "images": {
+        "Site Theme": {
+          "error": "File not found"
+        },
+        "Site Logo": {
+          "error": "File not found"
+        },
+        "Favicon Source": {
+          "hasAlpha": true,
+          "fileSize": 204258,
+          "dimensions": "1024x1024",
+          "totalPixels": 1048576,
+          "transparentPixels": 693701,
+          "semiTransparentPixels": 1205,
+          "opaquePixels": 353670,
+          "transparencyPercent": 66.21,
+          "backgroundType": "transparent",
+          "avgEdgeColor": {
+            "r": 76,
+            "g": 105,
+            "b": 113,
+            "a": 0
+          },
+          "edgeBrightness": "98.0"
+        },
+        "apple-touch-icon.png": {
+          "error": "File not found"
+        },
+        "favicon-32x32.png": {
+          "error": "File not found"
+        },
+        "favicon-16x16.png": {
+          "error": "File not found"
+        }
+      },
+      "errors": []
+    }
+  ]
+}
